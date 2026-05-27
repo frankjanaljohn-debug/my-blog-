@@ -1,0 +1,24 @@
+devfolio/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   ├── projects/page.tsx
+│   ├── blog/page.tsx
+│   └── contact/page.tsx
+├── components/
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   └── ProjectCard.tsx
+├── content/
+│   ├── projects/
+│   │   └── hello-world.mdx
+│   └── blog/
+│       └── first-post.mdx
+├── public/
+│   └── images/
+├── package.json
+├── tailwind.config.ts
+├── tsconfig.json
+├── next.config.mjs
+└── postcss.config.js
